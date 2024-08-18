@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(109, 2, 197);
+    padding: 18px;
+}
+
+header a {
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    text-decoration: none;
+    border: 5px solid white;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.klava {
+    width: 230px;
+    height: 80px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: #474747;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 10px;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px;
+}
+
+p img {
+    height: 150px;
+    width: 190px;
+}
+
+footer {
+    background-color: rgb(130, 20, 219);
+    padding: 10px;
+}
+
+footer p {
+    background-color: rgb(128, 76, 163);
+    padding: 5px;
+}
+
+.novini {
+    background-color: #ffffff;
+    border: 5px #ffffff solid;
+}
+
+.hatorr {
+    height: 120px;
+    width: 300px;
+}
+
+.mnoga {
+    height: 180px;
+    width: 500px;
+}
